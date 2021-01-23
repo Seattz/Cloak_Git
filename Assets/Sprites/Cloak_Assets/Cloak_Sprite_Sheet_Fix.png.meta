@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 6bc7cee2abdd82446957b10a246488e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4042700897766355149
+    second: Cloak_Sprite_Sheet_Fix_0
+  - first:
+      213: -1839503674332105141
+    second: Cloak_Sprite_Sheet_Fix_1
+  - first:
+      213: 6982696386733793561
+    second: Cloak_Sprite_Sheet_Fix_2
+  - first:
+      213: -8591619910645493962
+    second: Cloak_Sprite_Sheet_Fix_3
+  - first:
+      213: 6327406687202492358
+    second: Cloak_Sprite_Sheet_Fix_4
+  - first:
+      213: 4275363240026877636
+    second: Cloak_Sprite_Sheet_Fix_5
+  - first:
+      213: -572846777702037103
+    second: Cloak_Sprite_Sheet_Fix_6
+  - first:
+      213: 5472565450208100294
+    second: Cloak_Sprite_Sheet_Fix_7
+  - first:
+      213: 168507612503026762
+    second: Cloak_Sprite_Sheet_Fix_8
+  - first:
+      213: -8638306951615299026
+    second: Cloak_Sprite_Sheet_Fix_9
+  - first:
+      213: -6191666659008978389
+    second: Cloak_Sprite_Sheet_Fix_10
+  - first:
+      213: 6995159148438274676
+    second: Cloak_Sprite_Sheet_Fix_11
+  - first:
+      213: 5635989397999520357
+    second: Cloak_Sprite_Sheet_Fix_12
+  - first:
+      213: -5988247398774165982
+    second: Cloak_Sprite_Sheet_Fix_13
+  - first:
+      213: 4561638016847923538
+    second: Cloak_Sprite_Sheet_Fix_14
+  - first:
+      213: 7616406363878304949
+    second: Cloak_Sprite_Sheet_Fix_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 219
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc034802c0f8a1830800000000000000
+      internalID: 4042700897766355149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1150
+        width: 218
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b8608725c876e0800000000000000
+      internalID: -1839503674332105141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 841
+        width: 131
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911eba92e5587e060800000000000000
+      internalID: 6982696386733793561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 849
+        width: 131
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4dcc263f64c880800000000000000
+      internalID: -8591619910645493962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_4
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 835
+        width: 132
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfb224abd67fc750800000000000000
+      internalID: 6327406687202492358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 219
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea0970734255b30800000000000000
+      internalID: 4275363240026877636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 773
+        width: 218
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c75804e6dc08f0800000000000000
+      internalID: -572846777702037103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 430
+        width: 131
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfbab5384572fb40800000000000000
+      internalID: 5472565450208100294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_8
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 436
+        width: 132
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2131e7c8a65200800000000000000
+      internalID: 168507612503026762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_9
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 426
+        width: 132
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ce2068919e1880800000000000000
+      internalID: -8638306951615299026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 219
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e32e7af7c21aa0800000000000000
+      internalID: -6191666659008978389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 396
+        width: 218
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ccfdfe2cc31160800000000000000
+      internalID: 6995159148438274676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 219
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a01a92f7e073e40800000000000000
+      internalID: 5635989397999520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 20
+        width: 218
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea8e8c7b875eca0800000000000000
+      internalID: -5988247398774165982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 4
+        width: 131
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25943249b913e4f30800000000000000
+      internalID: 4561638016847923538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Sprite_Sheet_Fix_15
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 132
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcadf70c39e2b960800000000000000
+      internalID: 7616406363878304949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

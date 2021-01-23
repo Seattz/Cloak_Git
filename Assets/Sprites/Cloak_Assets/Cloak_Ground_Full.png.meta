@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: f53c996770cfae147860170da6790fbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -606261600598528635
+    second: Cloak_Ground_Full_0
+  - first:
+      213: 7293996232602889196
+    second: Cloak_Ground_Full_1
+  - first:
+      213: 8779769406124145645
+    second: Cloak_Ground_Full_2
+  - first:
+      213: -2134205926273545724
+    second: Cloak_Ground_Full_3
+  - first:
+      213: -4221064447338404868
+    second: Cloak_Ground_Full_4
+  - first:
+      213: 731678670028090883
+    second: Cloak_Ground_Full_5
+  - first:
+      213: 6496682283861094778
+    second: Cloak_Ground_Full_6
+  - first:
+      213: -2118098583195783735
+    second: Cloak_Ground_Full_7
+  - first:
+      213: -5643474567387523432
+    second: Cloak_Ground_Full_8
+  - first:
+      213: -5100714186619911922
+    second: Cloak_Ground_Full_9
+  - first:
+      213: 3034576965465696159
+    second: Cloak_Ground_Full_10
+  - first:
+      213: 5989385322629928969
+    second: Cloak_Ground_Full_11
+  - first:
+      213: -338689731056858908
+    second: Cloak_Ground_Full_12
+  - first:
+      213: -6236406811240169049
+    second: Cloak_Ground_Full_13
+  - first:
+      213: 1915520952685684034
+    second: Cloak_Ground_Full_14
+  - first:
+      213: -8064146150374096008
+    second: Cloak_Ground_Full_15
+  - first:
+      213: -5236718869773943515
+    second: Cloak_Ground_Full_16
+  - first:
+      213: 2243028940959252871
+    second: Cloak_Ground_Full_17
+  - first:
+      213: 7755269004258044456
+    second: Cloak_Ground_Full_18
+  - first:
+      213: -812070786575104557
+    second: Cloak_Ground_Full_19
+  - first:
+      213: -2835918625285530302
+    second: Cloak_Ground_Full_20
+  - first:
+      213: 6506470484219105406
+    second: Cloak_Ground_Full_21
+  - first:
+      213: -7356477371871187224
+    second: Cloak_Ground_Full_22
+  - first:
+      213: 2422911177438864897
+    second: Cloak_Ground_Full_23
+  - first:
+      213: -2542446606263738370
+    second: Cloak_Ground_Full_24
+  - first:
+      213: -5618699888554679149
+    second: Cloak_Ground_Full_25
+  - first:
+      213: 7010398887164681243
+    second: Cloak_Ground_Full_26
+  - first:
+      213: -4689522814671843887
+    second: Cloak_Ground_Full_27
+  - first:
+      213: 4592842245813993453
+    second: Cloak_Ground_Full_28
+  - first:
+      213: -4102047808388177701
+    second: Cloak_Ground_Full_29
+  - first:
+      213: -237368900380411958
+    second: Cloak_Ground_Full_30
+  - first:
+      213: 1724143730018651194
+    second: Cloak_Ground_Full_31
+  - first:
+      213: 6563443245140470223
+    second: Cloak_Ground_Full_32
+  - first:
+      213: 7255382856508541858
+    second: Cloak_Ground_Full_33
+  - first:
+      213: 1978006336675286843
+    second: Cloak_Ground_Full_34
+  - first:
+      213: -2681221894882420137
+    second: Cloak_Ground_Full_35
+  - first:
+      213: -6885699112573268030
+    second: Cloak_Ground_Full_36
+  - first:
+      213: 936332987748662733
+    second: Cloak_Ground_Full_37
+  - first:
+      213: 4881181124292998725
+    second: Cloak_Ground_Full_38
+  - first:
+      213: -7663484899510259117
+    second: Cloak_Ground_Full_39
+  - first:
+      213: 3994279965197012218
+    second: Cloak_Ground_Full_40
+  - first:
+      213: 5297165764228884661
+    second: Cloak_Ground_Full_41
+  - first:
+      213: -1841779409698656335
+    second: Cloak_Ground_Full_42
+  - first:
+      213: -3088917860238019161
+    second: Cloak_Ground_Full_43
+  - first:
+      213: 5331784232524288195
+    second: Cloak_Ground_Full_44
+  - first:
+      213: -1280864138169194585
+    second: Cloak_Ground_Full_45
+  - first:
+      213: -5321531836317080539
+    second: Cloak_Ground_Full_46
+  - first:
+      213: -3939401215387438039
+    second: Cloak_Ground_Full_47
+  - first:
+      213: 2974575913523278655
+    second: Cloak_Ground_Full_48
+  - first:
+      213: -572337983762403709
+    second: Cloak_Ground_Full_49
+  - first:
+      213: -831332299939288075
+    second: Cloak_Ground_Full_50
+  - first:
+      213: -4671305010059514012
+    second: Cloak_Ground_Full_51
+  - first:
+      213: 3964532594884332396
+    second: Cloak_Ground_Full_52
+  - first:
+      213: -8774058313794363281
+    second: Cloak_Ground_Full_53
+  - first:
+      213: -8194931841890440736
+    second: Cloak_Ground_Full_54
+  - first:
+      213: -2839887729162712410
+    second: Cloak_Ground_Full_55
+  - first:
+      213: 5405205113942349647
+    second: Cloak_Ground_Full_56
+  - first:
+      213: -7779443197257561061
+    second: Cloak_Ground_Full_57
+  - first:
+      213: -7274679460187631668
+    second: Cloak_Ground_Full_58
+  - first:
+      213: 5214402819656652828
+    second: Cloak_Ground_Full_59
+  - first:
+      213: 8534472057105706813
+    second: Cloak_Ground_Full_60
+  - first:
+      213: 1831377100885352735
+    second: Cloak_Ground_Full_61
+  - first:
+      213: -5442644889714013943
+    second: Cloak_Ground_Full_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6d5f49402697f0800000000000000
+      internalID: -606261600598528635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2555adea793560800000000000000
+      internalID: 7293996232602889196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb3fd5f1c108d970800000000000000
+      internalID: 8779769406124145645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a8eee7407c162e0800000000000000
+      internalID: -2134205926273545724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf32d52df34cb65c0800000000000000
+      internalID: -4221064447338404868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e21c0bfd1772a00800000000000000
+      internalID: 731678670028090883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a713d14cd1ad82a50800000000000000
+      internalID: 6496682283861094778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6b5d8f800b92e0800000000000000
+      internalID: -2118098583195783735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8965ae708c95ea1b0800000000000000
+      internalID: -5643474567387523432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0189b5d87f9639b0800000000000000
+      internalID: -5100714186619911922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976a261cabfc1a20800000000000000
+      internalID: 3034576965465696159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9089b42c7329e1350800000000000000
+      internalID: 5989385322629928969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_12
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8884beb7bbc4bf0800000000000000
+      internalID: -338689731056858908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_13
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1043d0c05d379a0800000000000000
+      internalID: -6236406811240169049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e5a8582c459a10800000000000000
+      internalID: 1915520952685684034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8734e1a4dc5661090800000000000000
+      internalID: -8064146150374096008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df98aeeef6357b0800000000000000
+      internalID: -5236718869773943515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7810cce00f6d02f10800000000000000
+      internalID: 2243028940959252871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae568f11040ab60800000000000000
+      internalID: 7755269004258044456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_19
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d508b11ce1fab4f0800000000000000
+      internalID: -812070786575104557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d11ff190bc4a8d0800000000000000
+      internalID: -2835918625285530302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709171ce60ab4a50800000000000000
+      internalID: 6506470484219105406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2b6b7eca88e990800000000000000
+      internalID: -7356477371871187224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062195f0e8ef9120800000000000000
+      internalID: 2422911177438864897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9045384a67bcd0800000000000000
+      internalID: -2542446606263738370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394eb23783e5602b0800000000000000
+      internalID: -5618699888554679149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c9e3b25a0f94160800000000000000
+      internalID: 7010398887164681243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0561a8d77beeb0800000000000000
+      internalID: -4689522814671843887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def762b40bd0dbf30800000000000000
+      internalID: 4592842245813993453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06a5970499217c0800000000000000
+      internalID: -4102047808388177701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b9142e32b4bcf0800000000000000
+      internalID: -237368900380411958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c8a7966936de710800000000000000
+      internalID: 1724143730018651194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e80a5bd8061b50800000000000000
+      internalID: 6563443245140470223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_33
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab86af644c40b460800000000000000
+      internalID: 7255382856508541858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_34
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8005884a437b10800000000000000
+      internalID: 1978006336675286843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a988f64e26acad0800000000000000
+      internalID: -2681221894882420137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf09dc93251170a0800000000000000
+      internalID: -6885699112573268030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd3d3634e58efc00800000000000000
+      internalID: 936332987748662733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54673d5fe507db340800000000000000
+      internalID: 4881181124292998725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_39
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352fe173615d5a590800000000000000
+      internalID: -7663484899510259117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_40
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc070b37788e6730800000000000000
+      internalID: 3994279965197012218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_41
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8293d6230538940800000000000000
+      internalID: 5297165764228884661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6842926fa076e0800000000000000
+      internalID: -1841779409698656335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a537286295f125d0800000000000000
+      internalID: -3088917860238019161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c093aea28d4ef940800000000000000
+      internalID: 5331784232524288195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a763e64ad4793ee0800000000000000
+      internalID: -1280864138169194585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52463635dfe1626b0800000000000000
+      internalID: -5321531836317080539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f619677f6459c0800000000000000
+      internalID: -3939401215387438039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33fcfa8801d74920800000000000000
+      internalID: 2974575913523278655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee06ad2a5ae08f0800000000000000
+      internalID: -572337983762403709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6fc38da38674f0800000000000000
+      internalID: -831332299939288075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_51
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f66edc7d03c2fb0800000000000000
+      internalID: -4671305010059514012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_52
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc98ad369d40730800000000000000
+      internalID: 3964532594884332396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_53
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6069b753784c3680800000000000000
+      internalID: -8774058313794363281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_54
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9259d88e0c54e80800000000000000
+      internalID: -8194931841890440736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_55
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 636
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa044d1821b698d0800000000000000
+      internalID: -2839887729162712410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4798a2c965230b40800000000000000
+      internalID: 5405205113942349647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c422d11add90490800000000000000
+      internalID: -7779443197257561061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8fa8e2952b0b90800000000000000
+      internalID: -7274679460187631668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_59
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181e65ccb74d5840800000000000000
+      internalID: 5214402819656652828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_60
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f684d4e19807670800000000000000
+      internalID: 8534472057105706813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_61
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116e0c25cb5a6910800000000000000
+      internalID: 1831377100885352735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Ground_Full_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 136
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90940062f47d774b0800000000000000
+      internalID: -5442644889714013943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
